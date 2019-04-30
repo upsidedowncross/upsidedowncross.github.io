@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(29, 29, 29);
+    margin: 0px;!important
+}
+.logo
+{
+    font-size: 28px;
+    color: #ff00fe;
+    text-align: center;
+}
+.nav-list
+{
+    width: auto;
+    height: 50px;
+    background-color: #ff00fe;
+}
